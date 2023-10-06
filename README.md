@@ -1,1 +1,2 @@
 # odin-recipes
+This project will have us create a website with a list of recipes.  It will allow us to apply the HTML knowledge that we have learned in the previous lessons.  It will consist of an index page with links to a few different recipes.
